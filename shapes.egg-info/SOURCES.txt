@@ -1,0 +1,7 @@
+README.md
+setup.py
+shapes.egg-info/PKG-INFO
+shapes.egg-info/SOURCES.txt
+shapes.egg-info/dependency_links.txt
+shapes.egg-info/not-zip-safe
+shapes.egg-info/top_level.txt
